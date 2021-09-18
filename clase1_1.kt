@@ -26,6 +26,7 @@ fun main(args:Array<String>){
     println("La multiplicacion $pi * $entero = ${pi*entero}")
 
     print("Danny")
+    print("Henry")
     var num = readLine()?.toInt() as Int
 
     print("Digite una cadena de texto")
