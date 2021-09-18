@@ -2,12 +2,9 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 
 fun main(args:Array<String>){
 
-<<<<<<< HEAD
-    println("Mi primera corrida con Kotlin con cambio para Git")
-=======
-    println("Mi primera corrida con Kotlin y cambio en gitlab")
->>>>>>> bcfdb48fe55d279bc813940ad71b366289ff36d5
+    println("Mi primera corrida con Kotlin 27/09/2021")
     println("-------------------------\n")
+    println("Hello_World")
 
     //Variables
     var resultado: Int
@@ -21,8 +18,12 @@ fun main(args:Array<String>){
     println("El valor de pi es: $pi")
     println("La multiplicacion $pi * $entero = ${pi*entero}")
 
+
     print("Danny")
     print("Henry")
+
+    print("Digite un número")
+
     var num = readLine()?.toInt() as Int
 
     print("Digite una palabra")
