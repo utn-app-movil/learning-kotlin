@@ -23,7 +23,6 @@ fun main(args:Array<String>){
 
     print("Danny")
     print("Henry")
-    print("Hillary")
     var num = readLine()?.toInt() as Int
 
     print("Digite una palabra")
