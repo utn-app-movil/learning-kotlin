@@ -12,6 +12,7 @@ fun main(args:Array<String>){
     println("Mi primera corrida con Kotlin con cambio para git")
 >>>>>>> dfb3c22450f4db13bd5d2e775d16c2e591a01796
     println("-------------------------\n")
+    println("Hello_World")
 
     //Variables
     var resultado: Int
