@@ -11,7 +11,7 @@ fun main(args:Array<String>){
     var logico: Boolean
     logico= false
 
-    //constante
+    //constante calculadora
     val pi = 3.14
 
     println("El valor de pi es: $pi")
