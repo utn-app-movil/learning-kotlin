@@ -19,7 +19,7 @@ fun main(args:Array<String>){
     var logico: Boolean
     logico= false
 
-    //constante
+    //constante calculadora
     val pi = 3.14
 
     println("El valor de pi es: $pi")
@@ -28,7 +28,7 @@ fun main(args:Array<String>){
     print("Danny")
     var num = readLine()?.toInt() as Int
 
-    print("Digite una palabra")
+    print("Digite una cadena de texto")
     var palabra = readLine() as String
 
     println("Los valores digitados fueron: $num y $palabra")
