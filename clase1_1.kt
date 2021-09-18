@@ -3,10 +3,14 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 fun main(args:Array<String>){
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     println("Mi primera corrida con Kotlin con cambio para Git")
 =======
     println("Mi primera corrida con Kotlin y cambio en gitlab")
 >>>>>>> bcfdb48fe55d279bc813940ad71b366289ff36d5
+=======
+    println("Mi primera corrida con Kotlin con cambio para git")
+>>>>>>> dfb3c22450f4db13bd5d2e775d16c2e591a01796
     println("-------------------------\n")
 
     //Variables
