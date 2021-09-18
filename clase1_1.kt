@@ -20,7 +20,7 @@ fun main(args:Array<String>){
     print("Digite un número")
     var num = readLine()?.toInt() as Int
 
-    print("Digite una palabra")
+    print("Digite una cadena de texto")
     var palabra = readLine() as String
 
     println("Los valores digitados fueron: $num y $palabra")
