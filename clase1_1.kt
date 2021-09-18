@@ -2,7 +2,7 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 
 fun main(args:Array<String>){
 
-    println("Mi primera corrida con Kotlin y cambio en gitlab")
+    println("Mi primera corrida con Kotlin con cambio para git")
     println("-------------------------\n")
 
     //Variables
