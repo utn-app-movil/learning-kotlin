@@ -2,7 +2,7 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 
 fun main(args:Array<String>){
 
-    println("Mi primera corrida con Kotlin 27/09/2021")
+    println("Mi primera corrida con Kotlin 27/09/202   1")
     println("-------------------------\n")
     println("Hello_World")
 
