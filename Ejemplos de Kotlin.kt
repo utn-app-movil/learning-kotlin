@@ -3,7 +3,7 @@ fun main() {
     var otrotexto: String
  
     //Concatenación
-    texto = "Ever Barahona"
+    texto = "Deyfran Aragón"
     otrotexto = "El nuevo texto agredado es $texto"
     println(otrotexto)
     
