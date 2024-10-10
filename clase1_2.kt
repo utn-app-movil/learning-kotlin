@@ -1,4 +1,4 @@
-/* Holaaaa Yoheeelll*/
+/* Holaaa Yoheelll*/
 fun main(args:Array<String>){
 
     print("Digite un numero ")
