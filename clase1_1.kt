@@ -2,7 +2,7 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 
 fun main(args:Array<String>){
 
-    println("Mi primera corrida con Kotlin")
+    println("Mi primer trabajo con Kotlin")
     println("-------------------------\n")
 
     //Variables
@@ -23,5 +23,5 @@ fun main(args:Array<String>){
     print("Digite una palabra")
     var palabra = readLine() as String
 
-    println("Los valores digitados fueron: $num y $palabra")
+    println("Los valores obtenidos son: $num y $palabra")
 }
