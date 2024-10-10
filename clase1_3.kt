@@ -1,6 +1,7 @@
 
 fun main(args:Array<String>){
     println(saludo("Juan"))
+    println(saludo("Daniel Mejia"))
     println(saludo2("Pedro"))
 
     var vector = arrayOf(5,4,3,2,1)
