@@ -2,7 +2,7 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 
 fun main(args:Array<String>){
 
-    println("Mi primera corrida con Kotlin")
+    println("Mi primera vez ejecutando Kotlin")
     println("-------------------------\n")
 
     //Variables
