@@ -1,7 +1,7 @@
 
 fun main(args:Array<String>){
     println(saludo("Juan"))
-    println(saludo2("Pedro"))
+    println(saludo2("Dorian"))
 
     var vector = arrayOf(5,4,3,2,1)
     var clrutina = subrutina()
