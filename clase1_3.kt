@@ -13,4 +13,4 @@ fun saludo(nombre: String): String{
     return "Hola $nombre cómo está?"
 }
 
-fun saludo2(nombre: String)= "Hola $nombre cómo está?"
+fun saludo2(nombre: String)= "Hola $nombre cómo estás?"
