@@ -1,4 +1,9 @@
 # learning-git
 
-#Esto es una prueba de funcionamiento de git
 
+
+#Ya lo arregle xd
+
+
+=======
+# Cambio de prueba de numero 1
