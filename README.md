@@ -1,3 +1,3 @@
 # learning-git
 
-# Nueva Tarea: Justin debe realizar el login
+# Nueva Tarea: Justin debe realizar el login.
