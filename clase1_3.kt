@@ -1,8 +1,8 @@
-Viendo padrinos magicos 
+
 
 fun main(args:Array<String>){
     println(saludo("Juan"))
-    println(saludo2("Pedro"))
+    println(saludo2("Viendo padrinos magicos "))
 
     var vector = arrayOf(5,4,3,2,1)
     var clrutina = subrutina()
