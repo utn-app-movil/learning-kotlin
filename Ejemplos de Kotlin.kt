@@ -4,7 +4,7 @@ fun main() {
  
     //Concatenación
     texto = "Deyfran Aragón"
-    otrotexto = "El nuevo texto agredado es $texto"
+    otrotexto = "EL TEXTO QUE AGREGUÉ es $texto"
     println(otrotexto)
     
    /* var numero: Int = 9
