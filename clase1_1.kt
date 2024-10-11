@@ -3,7 +3,7 @@ import com.sun.org.apache.xpath.internal.operations.Bool
 fun main(args:Array<String>){
 
 
-    println("Mi primera corrida con Kotlingsadga")
+    println("Mi primera vez viendo los padrinos mágicos")
 
 
     println("-------------------------\n")
