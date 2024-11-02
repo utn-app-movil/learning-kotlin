@@ -3,8 +3,8 @@ fun main() {
     var otrotexto: String
  
     //Concatenación
-    texto = "Deyfran Aragón"
-    otrotexto = "EL TEXTO QUE AGREGUÉ es $texto"
+    texto = "Ever Barahona"
+    otrotexto = "El nuevo texto agredado es $texto"
     println(otrotexto)
     
    /* var numero: Int = 9
