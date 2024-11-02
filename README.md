@@ -1,3 +1,4 @@
 # learning-git
-Repo to learn how to work with Kotlin syntax
+Repo to learn how to work with Kotlin syntax.
+To learn Kotlin is important to develop mobile apps in Android Studio.
 
