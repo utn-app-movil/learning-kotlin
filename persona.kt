@@ -3,7 +3,7 @@ class persona {
     private var _Apellido:String =""
 
     constructor()
-        
+
     constructor(nombre:String, apellido:String){
         this._nombre=nombre
         this._Apellido=apellido
@@ -17,5 +17,3 @@ class persona {
         get()= this._Apellido
         set(value) {this._Apellido = value}
 }
-
-//cambios
