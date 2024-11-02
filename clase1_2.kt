@@ -13,7 +13,7 @@ fun main(args:Array<String>){
         println("Los números son diferentes")
     }
 
-    println("Los números son ${if (valor1== valor2) "iguales" else "diferentes"}")
+    println("Los números son ${if (valor1== valor2) "iguales" else "diferentesgsadgds"}")
 
     when(valor1){
         1 -> println("valor = 1")
