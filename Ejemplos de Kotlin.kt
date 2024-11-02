@@ -31,8 +31,6 @@ fun main() {
     student.Name = "Juan"
     student.LastName = "Barrantes Garcia"
     println("El id del estudiante es ${student.FullName}")
-    
-  
 }
 
 fun imprimir (numeros: List<Int>){
