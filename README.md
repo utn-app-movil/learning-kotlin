@@ -11,4 +11,4 @@ You can find some files with example with the basis routines to be introduced in
 - [clase1_3.kt](clase1_3.kt): Class, functions and methods, 
     - [subrutina.kt](subrutina.kt)
 - [Ejemplos_Kotlin.kt](Ejemplos_Kotlin.kt): Classes, functions, properties.
-- [persona.kt](persona.kt): More about clasess, functions/methods and properties.
+- [persona.kt](persona.kt): More about interface, clasess, functions/methods and properties.
